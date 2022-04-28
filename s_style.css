@@ -1,0 +1,62 @@
+body
+  {
+  background-color: #B9F8D3;
+  /*background-color: #B8FFF9;*/
+  font-family: cursive;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 60%;
+  margin-right: 105px
+}
+
+h1{
+  color: red;
+  font-size: 100px;
+  position: relative;
+  left: 600px;
+  font-size: 50px;
+}
+
+.sayari{
+  background-color: red;
+  border-width: 50px;
+  position: relative;
+}
+
+.sayari3{
+  background-color: red;
+  border-width: 50px;
+  position: relative;
+  left: 700px;
+}
+
+.bottomContainer{
+  /*background-color: #E8630A;*/
+background-color:  #D18CE0;
+/*background-color: #F9FFA4;*/
+  width: 650px;
+  height: 365px;
+  border: solid 10px;
+  padding: 20px;
+
+}
+
+.shilpy-color{
+  color:white;
+}
+
+footer {
+  margin-top: 1%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+.foot{
+  background-color: #FF8080;
+}
